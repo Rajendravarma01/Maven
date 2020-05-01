@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test1">
+    <classes>
+      <class name="orangehrmlive.class1"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="Test2">
+    <classes>
+      <class name="orangehrmlive.class2"/>
+      <class name="orangehrmlive.class3"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

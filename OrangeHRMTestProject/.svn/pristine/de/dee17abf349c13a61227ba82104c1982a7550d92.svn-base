@@ -1,0 +1,5 @@
+un:txtUsername
+pw:txtPassword
+btn:Submit
+wel:welcome
+out://*[@id='welcome-menu']/ul/li[2]/a

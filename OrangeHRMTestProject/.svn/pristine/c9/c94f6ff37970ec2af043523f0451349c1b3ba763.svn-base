@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+  
+  <parameter name="un" value="txtUsername"/>
+  <parameter name="pw" value="txtPassword"/>
+  <parameter name="btn" value="Submit"/>
+  <parameter name="In" value="welcome"/>
+  <parameter name="out" value="//*[@id='welcome-menu']/ul/li[2]/a"/>
+  
+  
+    <classes>
+      <class name="orangehrmlive.parawithXMLfile"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

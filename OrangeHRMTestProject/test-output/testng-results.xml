@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21561" started-at="2020-04-24T14:05:40Z" finished-at="2020-04-24T14:06:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21561" started-at="2020-04-24T14:05:40Z" finished-at="2020-04-24T14:06:01Z">
+      <class name="orangehrmlive.RajendraDemo">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:orangehrmlive.RajendraDemo@3ffc5af1]" name="openBrowser" is-config="true" duration-ms="9157" started-at="2020-04-24T14:05:40Z" finished-at="2020-04-24T14:05:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:orangehrmlive.RajendraDemo@3ffc5af1]" name="LoginTest" is-config="true" duration-ms="2602" started-at="2020-04-24T14:05:49Z" finished-at="2020-04-24T14:05:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="adminTest()[pri:0, instance:orangehrmlive.RajendraDemo@3ffc5af1]" name="adminTest" duration-ms="3192" started-at="2020-04-24T14:05:52Z" finished-at="2020-04-24T14:05:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminTest -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:orangehrmlive.RajendraDemo@3ffc5af1]" name="logout" is-config="true" duration-ms="1342" started-at="2020-04-24T14:05:55Z" finished-at="2020-04-24T14:05:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:orangehrmlive.RajendraDemo@3ffc5af1]" name="LoginTest" is-config="true" duration-ms="1749" started-at="2020-04-24T14:05:56Z" finished-at="2020-04-24T14:05:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="leaveTest()[pri:0, instance:orangehrmlive.RajendraDemo@3ffc5af1]" name="leaveTest" duration-ms="2067" started-at="2020-04-24T14:05:58Z" finished-at="2020-04-24T14:06:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- leaveTest -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:orangehrmlive.RajendraDemo@3ffc5af1]" name="logout" is-config="true" duration-ms="1371" started-at="2020-04-24T14:06:00Z" finished-at="2020-04-24T14:06:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeBrwoser()[pri:0, instance:orangehrmlive.RajendraDemo@3ffc5af1]" name="closeBrwoser" is-config="true" duration-ms="54" started-at="2020-04-24T14:06:01Z" finished-at="2020-04-24T14:06:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrwoser -->
+      </class> <!-- orangehrmlive.RajendraDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
